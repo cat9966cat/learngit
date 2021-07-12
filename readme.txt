@@ -8,3 +8,6 @@ git learning
 git add txt
 =======
 >>>>>>> bb819e6 (添加了一行描述语句)
+
+
+git merge --no-ff
